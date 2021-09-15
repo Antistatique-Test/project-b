@@ -1,2 +1,3 @@
-# project-b
-Proejct B
+# Project B
+
+A testing project
