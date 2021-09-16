@@ -1,3 +1,3 @@
 # Project B
 
-A testing project
+A testing project.
